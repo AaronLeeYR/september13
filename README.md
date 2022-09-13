@@ -1,6 +1,7 @@
-# Alt-H1 This is a test project
-# H2 DevOps course test Repo
+# This is a test project
+### DevOps course test Repo
 
 Reference-style: 
-![alt text][logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-# H3 This is my LinkedIN Profile:(https://www.linkedin.com/in/aaron-lee-28a4a7111/)
+![alt text][logo]:![image](https://user-images.githubusercontent.com/106086381/189793032-9d6600d9-8c18-4861-b87b-0648fe0ac510.png)
+#### This is my LinkedIN Profile:(https://www.linkedin.com/in/aaron-lee-28a4a7111/)
+
